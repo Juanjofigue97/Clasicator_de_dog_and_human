@@ -1,2 +1,2 @@
-# Clasicatormanos
-Clasicatormanos
+# Clasicator
+Deteccion de personas y perros
